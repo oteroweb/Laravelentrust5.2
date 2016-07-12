@@ -1,0 +1,1 @@
+# Laravelentrust5.2
