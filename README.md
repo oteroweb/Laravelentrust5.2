@@ -1,1 +1,2 @@
-# Laravelentrust5.2
+# Laravelentrust5..2
+una nueva linea añadida
